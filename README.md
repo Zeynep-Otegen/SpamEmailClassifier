@@ -6,7 +6,9 @@ A-Bu uygulama örnek bir veri seti ile eğitilmiştir. Gerçek dünya uygulamala
 B-Model performansını artırmak için daha fazla özellik mühendisliği ve hiperparametre ayarı yapılabilir.
 
 C-Gerçek bir uygulamada, modeli periyodik olarak yeni verilerle güncellemek önemlidir.
-#İndir:İndirdiğiniz zip dosyasında sadece SpamEmailClassifier olan exe dosyasınıa tıklayıp çalıştırabilirsiniz.
+#İndir:https://github.com/Zeynep-Otegen/SpamEmailClassifier/releases/tag/ML
+Linke tıklayıp assets kısmından zip dosyasına tıklayıp indirebilirsiniz.
+İndirdiğiniz zip dosyasında sadece SpamEmailClassifier olan exe dosyasınıa tıklayıp çalıştırabilirsiniz.
 
  # Özellikler
  Görsel Sonuç Gösterimi: Renk kodlu spam/ham tespiti
@@ -48,3 +50,11 @@ Windows Forms - Kullanıcı arayüzü
 ML.NET 2.0 - Makine öğrenimi çerçevesi
 
 C# 10 - Programlama dili
+#Görseller
+
+<img width="626" height="633" alt="Ekran görüntüsü 2025-12-05 113339" src="https://github.com/user-attachments/assets/1a86719b-d2e3-438b-aae9-c55a5c8ccaf8" />
+
+
+<img width="619" height="629" alt="Ekran görüntüsü 2025-12-05 113431" src="https://github.com/user-attachments/assets/845aa8fa-c1ee-4436-b494-5cd06299c48b" />
+
+
