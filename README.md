@@ -6,6 +6,7 @@ A-Bu uygulama örnek bir veri seti ile eğitilmiştir. Gerçek dünya uygulamala
 B-Model performansını artırmak için daha fazla özellik mühendisliği ve hiperparametre ayarı yapılabilir.
 
 C-Gerçek bir uygulamada, modeli periyodik olarak yeni verilerle güncellemek önemlidir.
+Zip dosyası ayıklanmalı:
 #İndir:https://github.com/Zeynep-Otegen/SpamEmailClassifier/releases/tag/ML
 Linke tıklayıp assets kısmından zip dosyasına tıklayıp indirebilirsiniz.
 İndirdiğiniz zip dosyasında sadece SpamEmailClassifier olan exe dosyasınıa tıklayıp çalıştırabilirsiniz.
